@@ -1,4 +1,5 @@
-a = input("Enter First num: ")
-# b = input("Enter Second num: ")
-# c = input("Enter Third num: ")
-# print(max(a, b, c))
+def addN(n):
+    s = sum(range(1,n+1))
+    return s 
+print(addN(10))
+print(addN(100))
