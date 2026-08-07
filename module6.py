@@ -22,7 +22,7 @@ def addN(n):
 print(addN(10))
 print(addN(100))
 
-ass6.1
+# ass6.1
 def sum_odd(n):
     total = 0
     for i in range(1, n + 1):
@@ -33,7 +33,7 @@ def sum_odd(n):
 n = int(input("Enter n: "))
 print("Sum of odd numbers =", sum_odd(n))
 
-ass6.2
+# ass6.2
 
 def is_prime(num):
     if num < 2:
