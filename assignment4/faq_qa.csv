@@ -1,0 +1,8 @@
+question,answer,keywords,category
+What is the annual fee?,The annual fee is Rs 50.0.,"['annual', 'fee', 'cost', 'price', 'charge']",billing
+How do I reset my password?,Go to Settings and select Reset Password.,"['password', 'login', 'forgot', 'reset']",account
+How can I contact customer support?,Contact support by email or through the Help section.,"['support', 'help', 'contact', 'email']",support
+How long does delivery take?,Standard delivery usually takes three to five business days.,"['delivery', 'shipping', 'order', 'days']",shipping
+Can I get a refund?,Refunds are available within 30 days of purchase.,"['refund', 'return', 'money', 'purchase']",billing
+How do I update my account details?,"Open Settings, edit your account details, and save the changes.","['account', 'profile', 'details', 'settings', 'update']",account
+What is the annual fee?,The annual fee is Rs 50.0.,"['annual', 'fee', 'cost', 'price', 'charge']",billing
